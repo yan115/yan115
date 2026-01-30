@@ -12,5 +12,10 @@
     <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="60" height="60"/> </a>
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yan115&card_width=500&show_icons=true&locale=cn&layout=compact" alt="yan115" /></p>
+<div style="display: flex;justify-content: space-around; align-items: center; width: 100%;">
+<!-- <p><img src="https://github-readme-stats.vercel.app/api?username=yan115&card_width=500&show_icons=true&locale=cn" alt="yan115" /></p> -->
+</div>
+
+<div style="display: flex;justify-content: space-around; align-items: center; width: 100%;">
+<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yan115&card_width=500&show_icons=true&locale=cn&layout=compact" alt="yan115" /></p> -->
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=yan115&" alt="yan115" /></p>
